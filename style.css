@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+}
+.livre {
+	background-color: green;
+}
+
+.ocupado {
+	background-color: red;
+}
+
+.manutencao {
+	background-color: yellow;
+}
+.armario {
+  border: 2px solid black;
+	margin: 20px;
+	display: inline-block;
+	width: 80px;
+	height: 80px;
+}
+.legenda {
+  text-align: center;
+	margin-top: 30px;
+	font-size: 20px;
+	font-weight: bold;
+}
